@@ -1,0 +1,31 @@
+body {
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.hide {
+	display: none;
+}
+
+.really-hide {
+	display: none;
+}
+
+button {
+	background: #00b0b6;
+	border: none;
+	padding: 0.5rem 1rem;
+	color: #fff;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-size: 0.75rem;
+}
+button:hover {
+	background: #027f84;
+}

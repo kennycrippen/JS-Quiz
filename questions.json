@@ -1,0 +1,27 @@
+[
+	{
+		"question": "Which band is widely regarded as the first heavy metal group?", 
+		"choices": ["Dio", "Black Sabbath", "Mercyful Fate", "Rainbow"], 
+		"correctAnswer":"Black Sabbath"
+	},
+	{
+		"question": "Who composed the soundtrack to the 1982 cyberpunk film Blade Runner?", 
+		"choices": ["Hans Zimmer", "Henry Mancini", "Danny Elfman", "Vangelis"], 
+		"correctAnswer":"Vangelis"
+	},
+	{
+		"question": "Which side project featured Robert Smith and Steven Severin?", 
+		"choices": ["The Glove", "Blue Sunshine", "Blue Monday", "The Exploding Boys"], 
+		"correctAnswer":"The Glove"
+	},
+	{
+		"question": "Who sang lead vocals on the Crystal Castles track 'Not in Love'?", 
+		"choices": ["Ozzy", "Peter Hook", "Robert Smith", "Trent Reznor"], 
+		"correctAnswer":"Robert Smith"
+	},
+	{
+		"question": "Who is the creative force behind the projects Circle of Dust, Celldweller, and Scandroid?", 
+		"choices": ["Klank", "Klay Scott", "Buka", "Daren Diolosa"], 
+		"correctAnswer":"Klay Scott"
+	}
+]
